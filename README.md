@@ -1,5 +1,7 @@
 # 节点
 
+QuantClaw standalone website project.
+
 一个独立的新网站项目骨架，适合继续补充首页文案、栏目结构和正式内容后直接发布。
 
 ## 本地运行
